@@ -1,0 +1,7 @@
+
+K
+java:S2696"6Make the enclosing method "static" or remove this set.(ÿÑ†
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÀ´ûÿÿÿÿ
+Q	java:S125 "<This block of commented-out lines of code should be removed.(ÃÄó
+h	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÛ¹°üÿÿÿÿ
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(³î‚›ıÿÿÿÿ8¶¬ğİâ/
